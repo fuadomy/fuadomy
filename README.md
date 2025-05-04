@@ -11,23 +11,21 @@ Methodologies: Apply Agile, Domain-Driven Design (DDD), and microservices archit
 
 Conga CLM Platform (2022-Present): Led front-end development using React and Lit, integrated microservices, and reduced API latency by 20%.
 H2oERP (2016-2022): Architected a multi-tenant SaaS ERP with ASP.NET Zero and Angular, serving 50+ clients across India, Qatar, and UAE.
-Beacon Pro (2016-2022): Developed a Blazor WebAssembly app for NBFCs, cutting report generation time by 40%.
-EZTrolley (2016-2022): Built a B2B grocery portal with PHP and CodeIgniter, boosting order processing by 35%.
+Beacon Pro (2021-2022): Developed a Blazor WebAssembly app for NBFCs, cutting report generation time by 40%.
+EZTrolley (2017-2019): Built a B2B grocery portal with PHP and CodeIgniter, boosting order processing by 35%.
 
 🧰 Tech Stack
 
 Languages: JavaScript, TypeScript, C#, PHP
-Front-End: React, Lit, Redux, HTML, CSS, Teleric UI
+Front-End: React, Lit, Redux, HTML, CSS
 Back-End: .NET Core, ASP.NET, Abp.io, Radzen
 Databases: MS SQL Server, PostgreSQL, MySQL
-Tools: Git, GitHub, GitLab, Figma, SSRS
+Tools: Git, GitHub, GitLab, Figma
 
 📫 Connect With Me
 
-LinkedIn: [Your LinkedIn URL]
-Email: [Your Email]
-Portfolio: [Your Portfolio URL, if applicable]
+LinkedIn: [Fuad M](https://www.linkedin.com/in/fuad-m/)
+Email: fuadomy@gmail.com
 
 🌟 Fun Fact
-I trained 100+ end-users on ERP systems and provided onsite support in Qatar, blending tech expertise with client collaboration!
-Check out my repositories below to see my work in action!
+I trained 50+ end-users on ERP systems and provided onsite support in Qatar, blending tech expertise with client collaboration!
