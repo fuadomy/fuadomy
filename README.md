@@ -1,31 +1,46 @@
-👋 Hi, I'm Fuad M!
-I'm a Full-Stack Developer with over 8 years of experience building scalable web applications using React, .NET Core, Blazor, and Angular. I specialize in creating performant, secure, and maintainable cloud-based platforms, with a passion for integrating microservices and developing reusable component libraries. Based in Kozhikode, India, I thrive in Agile environments and love solving complex technical challenges.
-🚀 What I Do
+👋 **Hi, I'm Fuad M!**  
+Full-Stack Developer with 8+ years of experience building scalable web apps using React, .NET Core, Blazor, and Angular. I specialize in secure, high-performance cloud platforms, microservices, and reusable component libraries. Based in Bangalore, India, I thrive in Agile teams and love tackling complex challenges.
 
-Front-End: Craft dynamic UIs with React, Lit, Redux, and Redux Toolkit (RTK).
-Back-End: Build robust APIs and services using .NET 7.0, ASP.NET Core, and Entity Framework.
-Projects: Lead development for enterprise solutions like Contract Lifecycle Management (CLM) and SaaS ERP platforms.
-Methodologies: Apply Agile, Domain-Driven Design (DDD), and microservices architecture.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fuadomy&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadomy&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
 
-🛠️ Key Projects
+🚀 **What I Do**  
 
-Conga CLM Platform (2022-Present): Led front-end development using React and Lit, integrated microservices, and reduced API latency by 20%.
-H2oERP (2016-2022): Architected a multi-tenant SaaS ERP with ASP.NET Zero and Angular, serving 50+ clients across India, Qatar, and UAE.
-Beacon Pro (2021-2022): Developed a Blazor WebAssembly app for NBFCs, cutting report generation time by 40%.
-EZTrolley (2017-2019): Built a B2B grocery portal with PHP and CodeIgniter, boosting order processing by 35%.
+- **Front-End**: Build dynamic UIs with React, Lit, Redux, and Redux Toolkit.  
+- **Back-End**: Develop robust APIs using .NET 7.0, ASP.NET Core, and Entity Framework.  
+- **Projects**: Lead enterprise solutions like CLM platforms and SaaS ERP systems.  
+- **Methodologies**: Agile, Domain-Driven Design (DDD), and microservices.
 
-🧰 Tech Stack
+🛠️ **Key Projects**  
 
-Languages: JavaScript, TypeScript, C#, PHP
-Front-End: React, Lit, Redux, HTML, CSS
-Back-End: .NET Core, ASP.NET, Abp.io, Radzen
-Databases: MS SQL Server, PostgreSQL, MySQL
-Tools: Git, GitHub, GitLab, Figma
+- **Conga CLM Platform** (2022-Present): Led React/Lit front-end dev, integrated microservices, cut API latency by 20%.  
+- **H2oERP** (2016-2022): Architected multi-tenant SaaS ERP with ASP.NET Zero & Angular for 50+ clients in India, Qatar, UAE.  
+- **Beacon Pro** (2021-2022): Built Blazor WebAssembly app for NBFCs, reduced report generation time by 40%.  
+- **EZTrolley** (2017-2019): Developed PHP/CodeIgniter B2B grocery portal, improved order processing by 35%.
 
-📫 Connect With Me
+🧰 **Tech Stack**  
 
-LinkedIn: [Fuad M](https://www.linkedin.com/in/fuad-m/)
-Email: fuadomy@gmail.com
+| **Category**       | **Technologies**                              |  
+|--------------------|-----------------------------------------------|  
+| **Languages**      | JavaScript, TypeScript, C#, PHP               |  
+| **Front-End**      | React, Lit, Redux, HTML, CSS, Tailwind CSS*   |  
+| **Back-End**       | .NET Core, ASP.NET, Abp.io, Radzen            |  
+| **Databases**      | MS SQL Server, PostgreSQL, MySQL             |  
+| **Tools/DevOps**   | Git, GitHub, GitLab, Figma, Docker*          |  
+*Familiar with trending tools like Tailwind CSS and Docker; open to expanding expertise.
 
-🌟 Fun Fact
-I trained 50+ end-users on ERP systems and provided onsite support in Qatar, blending tech expertise with client collaboration!
+🔍 **Currently Working On**  
+
+- Exploring React Server Components and .NET 8 for next-gen web apps.  
+- Open to contributing to open-source projects in React, .NET, or SaaS platforms. DM me to collaborate!
+
+📫 **Connect With Me**  
+
+- GitHub: [fuadm](https://github.com/fuadomy)  
+- LinkedIn: [Fuad M](https://www.linkedin.com/in/fuad-m/)  
+- Email: [fuadomy@gmail.com](mailto:fuadomy@gmail.com)  
+
+🌟 **Fun Fact**  
+Trained 50+ ERP users and provided onsite support in Qatar, blending tech with client collaboration!
