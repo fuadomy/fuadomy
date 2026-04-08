@@ -72,15 +72,6 @@ B2B grocery procurement portal built with PHP/CodeIgniter, streamlining bulk ord
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuadomy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuadomy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## Let's Connect
 
 I'm always open to interesting conversations — whether it's a full-time role, a freelance project, or an open-source collaboration. Reach out anytime.
